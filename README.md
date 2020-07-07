@@ -9,6 +9,7 @@ Size of the house in square feet.
 
 3) Logistic Regression is implemented to predict admission probability of a student based on their grades in previous 2 semesters. Dataset is downloaded from week 3, Machine Learning Coursera. Model Accuracy 89%  
 
-
+4) Trained a model with Regularized Logistic Regression to predict whether microchips from a fabrication facility passes quality assurance.  
+Model Accuracy 83% (approximately)  
 Code contributed by Sammya Majumdar   
 30th June 2020
