@@ -11,5 +11,7 @@ Size of the house in square feet.
 
 4) Trained a model with Regularized Logistic Regression to predict whether microchips from a fabrication facility passes quality assurance.  
 Model Accuracy 83% (approximately)  
+
+
 Code contributed by Sammya Majumdar   
 30th June 2020
