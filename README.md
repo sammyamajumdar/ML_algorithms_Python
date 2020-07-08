@@ -1,7 +1,7 @@
 # Machine_Learning_Algorithms_Python
 
 1) This code is the Python implementation of the Linear Regression problem on AndrewNg's Machine Learning Course on Coursera.  
-This simple machine learning model predicts profits for a food truck.  
+This simple machine learning model predicts profits for a food truck.  Edit : Added the solution using TensorFlow library on 8th July 2020.  
 Dataset is downloaded from the course assignment under week 1.      
 
 2) Added the solution to the Multivariate Linear Regression problem which predicts the Housing Prices in Portland Oregon based on 2 parameters : number of bedrooms and 
